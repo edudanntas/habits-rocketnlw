@@ -32,9 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Habits é um app para ajudar a rastrear os hábitos diários.
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://edudanntas.github.io/habits-rocketnlw/)
 
 ## 🔖 Layout
 
